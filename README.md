@@ -1,9 +1,8 @@
-### Hi there 👋
+### Olá você 👋 Eu sou o Vinícius Moreira, tenho 20 anos, graduando em Análise e Desenvolvimento de Sistemas
 
 - 🔭 Hoje procuro oportunidades em front-end
 - 🌱 estudo HTML, CSS e JS e seus frameworks
-- 📫 How to reach me: vinmorei07@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 DASHBOARD
 <div align="center">
@@ -24,10 +23,9 @@ ICON TOOLS
   <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 </div>
   
-  
-##
 
-//CONTACT ME AT
+
+CONTACT ME AT
   <div>
   <a href="https://instagram.com/vinmorei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/vinmorei" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
