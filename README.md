@@ -4,7 +4,7 @@
 - 🌱 estudo HTML, CSS e JS e seus frameworks
 - 😄 Pronomes: ele/dele
 
-# DASHBOARD
+#### DASHBOARD
 <div align="center">
   <a href="https://github.com/vinmorei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinmorei&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
